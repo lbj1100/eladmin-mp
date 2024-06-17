@@ -1,27 +1,21 @@
-<h1 style="text-align: center">ELADMIN 后台管理系统</h1>
+<h1 style="text-align: center">lbj的 ELADMIN 后台管理系统</h1>
 
 #### 项目简介
-一个基于 Spring Boot 2.6.4 、 Mybatis-Plus、 JWT、Spring Security、Redis、Vue的前后端分离的后台管理系统
+对 一个基于 Spring Boot 2.6.4 、 Mybatis-Plus、 JWT、Spring Security、Redis、Vue的前后端分离的后台管理系统 进行二次开发
 
-**开发文档：**  [https://eladmin.vip](https://eladmin.vip)
+**原项目开发文档：**  [https://eladmin.vip](https://eladmin.vip)
 
-**体验地址：**  [https://eladmin.vip/demo](https://eladmin.vip/demo)
+**原项目体验地址：**  [https://eladmin.vip/demo](https://eladmin.vip/demo)
 
 **账号密码：** `admin / 123456`
 
-#### 项目源码
+#### 原项目源码
 
 |     | 后端源码                                 |   前端源码  |
 |---  |--------------------------------------| --- |
 |  github   | https://github.com/elunez/eladmin-mp |  https://github.com/elunez/eladmin-web-mp   |
 |  码云   | https://gitee.com/elunez/eladmin-mp     |  https://gitee.com/elunez/eladmin-web-mp   |
 
-#### VPS推荐
-<a href="https://bwh81.net/aff.php?aff=70876" target="_blank">
-<img src="https://eladmin.vip/images/banner/side.jpeg" style="width: 435px;border-radius: 2px;">
-</a>
-
-使用优惠码: `BWHCCNCXVV`，可获得 6.81% 的折扣 [查看介绍](https://bwhstock.in/)
 
 #### 主要特性
 - 使用最新技术栈，社区资源丰富。
@@ -83,19 +77,3 @@
 - eladmin-tools 系统第三方工具模块
 - eladmin-generator 系统代码生成模块
 ```
-
-#### 特别鸣谢
-
-- 感谢 [PanJiaChen](https://github.com/PanJiaChen/vue-element-admin) 大佬提供的前端模板
-
-- 感谢 [Moxun](https://github.com/moxun1639) 大佬提供的前端 Curd 通用组件
-
-- 感谢 [zhy6599](https://gitee.com/zhy6599) 大佬提供的后端运维管理相关功能
-
-- 感谢 [j.yao.SUSE](https://github.com/everhopingandwaiting) 大佬提供的匿名接口与Redis限流等功能
-
-#### 项目捐赠
-项目的发展离不开你的支持，请作者喝杯咖啡吧☕  [Donate](https://eladmin.vip/pages/030101/)
-
-#### 反馈交流
-- QQ交流群：891137268 、947578238、659622532
